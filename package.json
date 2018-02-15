@@ -1,0 +1,16 @@
+{
+  "name": "temperature",
+  "version": "1.0.0",
+  "description": "Real-time graph generation of temperature using Arduino, Node.js and Chart.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Priyansh Rastogi",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.2",
+    "serialport": "^6.0.5",
+    "socket.io": "^2.0.4"
+  }
+}
